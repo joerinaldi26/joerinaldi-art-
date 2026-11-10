@@ -1,2 +1,2 @@
-# joerinaldi-art-
+# joerinaldi-art
 Joe Rinaldi Art
