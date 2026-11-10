@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://joerinaldi.art/sitemap.xml
